@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berkayekemkcii
 - 👀 I’m interested in Unity 
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on game developer
 - 📫 How to reach me berkayekmekcii@gmail.com
 
