@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @berkayekemkcii
-- 👀 I’m interested in Unity 
-- 🌱 I’m currently learning Unity and C#
-- 💞️ I’m looking to collaborate on game developer
+- 👀 I’m interested in Unity !
+- 🌱 I’m currently learning Unity and C# !
+- 💞️ I’m looking to collaborate on HyperCasual!
 - 📫 How to reach me berkayekmekcii@gmail.com
 
 <!---
